@@ -12,7 +12,10 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+![image](https://github.com/user-attachments/assets/9b906fe7-0738-4cb0-9baa-bd6cca55586d)
 
 ## Output
+![image](https://github.com/user-attachments/assets/0027b8ee-0b38-4094-bd08-ae87c7422948)
 
 ## Result
+Python program to check whether the given number is even or odd has been execute successfully
